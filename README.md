@@ -27,6 +27,6 @@
   </style>
 
   <div class="rocket">🚀</div>
-  <div class="intro-text">Hi, I'm Sakshi! Thank you for visiting my github Account 👋</div>
-  <div style="font-size: 2rem;">✨ ⭐ ✨</div>
+  <div class="intro-text">Hi, I'm Sakshi! 👋</div>
+  <div style="font-size: 2rem; margin-top: 10px;">✨ Thank you for visiting! ✨</div>
 </div>

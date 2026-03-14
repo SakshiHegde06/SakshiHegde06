@@ -12,8 +12,6 @@
   </text>
 </svg>
 
-# Hi, I'm Sakshi!
-
-## Thank you for visiting!
+Hello There
 
 </div>
